@@ -1,0 +1,14 @@
+.app{
+    background-image:url('https://static.vecteezy.com/system/resources/previews/001/845/986/original/old-macdonald-in-a-farm-nursery-rhymes-scene-free-vector.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.title{
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+}
